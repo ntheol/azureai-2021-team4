@@ -1,4 +1,9 @@
 # azureai-2021-team4
+Contributors: Nikolas Theologitis
+              Anastasis Stamoulakatos
+              Zoi Papadimitriou
+              Antonia Karamolegkou
+              Asterios Pantousas
 
 ## Repository for deliverables of team 4:
 
